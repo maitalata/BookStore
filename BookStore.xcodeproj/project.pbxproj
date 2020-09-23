@@ -16,6 +16,7 @@
 		2B6782FB2514C4740010E452 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2B6782F92514C4740010E452 /* LaunchScreen.storyboard */; };
 		2B6783062514C4740010E452 /* BookStoreTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B6783052514C4740010E452 /* BookStoreTests.swift */; };
 		2B6783112514C4740010E452 /* BookStoreUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B6783102514C4740010E452 /* BookStoreUITests.swift */; };
+		2B67831F2514C50F0010E452 /* Customer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B67831E2514C50F0010E452 /* Customer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		2B67830C2514C4740010E452 /* BookStoreUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BookStoreUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2B6783102514C4740010E452 /* BookStoreUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookStoreUITests.swift; sourceTree = "<group>"; };
 		2B6783122514C4740010E452 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2B67831E2514C50F0010E452 /* Customer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Customer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				2B6782F72514C4740010E452 /* Assets.xcassets */,
 				2B6782F92514C4740010E452 /* LaunchScreen.storyboard */,
 				2B6782FC2514C4740010E452 /* Info.plist */,
+				2B67831E2514C50F0010E452 /* Customer.swift */,
 			);
 			path = BookStore;
 			sourceTree = "<group>";
@@ -263,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2B6782ED2514C4730010E452 /* AppDelegate.swift in Sources */,
+				2B67831F2514C50F0010E452 /* Customer.swift in Sources */,
 				2B6782EF2514C4730010E452 /* SceneDelegate.swift in Sources */,
 				2B6782F12514C4730010E452 /* MasterViewController.swift in Sources */,
 				2B6782F32514C4730010E452 /* DetailViewController.swift in Sources */,
